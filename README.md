@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ExtraMayoPlease
 - 👀 I’m interested in ... creating amazing, useful, and productive new things. 
-- 🌱 I’m currently learning ... js on codeacademy.
+- 🌱 I’m currently learning ... js on codecademy.
 - 💞️ I’m looking to collaborate on ... projects in the future. 
 - 📫 How to reach me ... secret location to be revealed in a future episode.
 
